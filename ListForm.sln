@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListForm", "ListForm\ListForm.csproj", "{146ACA1D-53EC-4E50-B6E8-650548010E90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{146ACA1D-53EC-4E50-B6E8-650548010E90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146ACA1D-53EC-4E50-B6E8-650548010E90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146ACA1D-53EC-4E50-B6E8-650548010E90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146ACA1D-53EC-4E50-B6E8-650548010E90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {493AC9F1-0CAB-4BA4-97FF-11E9E595F070}
+	EndGlobalSection
+EndGlobal
