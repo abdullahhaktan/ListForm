@@ -38,6 +38,7 @@ Bu proje, harici bir veritabanı veya API ayarı gerektirmez.
     * Çözümü derleyin (`Build Solution` veya **F6**).
     * Projeyi **`Startup Project`** olarak ayarlayın ve **F5** tuşuna basarak uygulamayı çalıştırın.
 
+-------
 
 [EN]
 
