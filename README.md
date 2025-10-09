@@ -52,6 +52,9 @@ Bu proje, harici bir veritabanı veya API ayarı gerektirmez.
 * **Basic Data Operations:** Includes fundamental data manipulation functionalities such as adding new items, editing/deleting existing items, and performing quick searching/filtering within the list.
 * **Form-Based Interface:** Ensures the application runs within a visual and interactive Windows Form Application structure.
 
+---
+---
+
 ### 🚀 How to Run
 
 This project does not require any external database or API configuration.
