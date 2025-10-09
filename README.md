@@ -52,22 +52,6 @@ Bu proje, harici bir veritabanı veya API ayarı gerektirmez.
 * **Basic Data Operations:** Includes fundamental data manipulation functionalities such as adding new items, editing/deleting existing items, and performing quick searching/filtering within the list.
 * **Form-Based Interface:** Ensures the application runs within a visual and interactive Windows Form Application structure.
 
----
----
-
-## 🇺🇸 English Description
-
-### 💻 About the Project
-
-This application serves as a fundamental reference for developers looking to learn and practice using **Lists** and other common collection structures (like ArrayList, Dictionary, etc.) in the C# programming language. The application aims to visually demonstrate how to take user input, add it to a list, remove items, and perform basic manipulations (search, sort) using a graphical interface.
-
-### ✨ Core Features
-
-* **Core Collections:** Practical implementation of structures like `List<T>`, `ArrayList`, and `Dictionary<TKey, TValue>`.
-* **Data Management:** Functionality for adding, deleting, and updating data within the list.
-* **Search and Filtering:** Examples of searching and filtering data within the list using LINQ or standard loops.
-* **Graphical Interface:** Presentation of collection data to the user using Windows Form controls (ListBox, DataGridView).
-
 ### 🚀 How to Run
 
 This project does not require any external database or API configuration.
@@ -82,6 +66,9 @@ This project does not require any external database or API configuration.
 3.  **Building and Running:**
     * Build the solution in Visual Studio (`Build Solution` or **F6**).
     * Set the project as the **`Startup Project`** and press **F5** to run the application.
+
+---
+---
 
 <img width="841" height="404" alt="Ekran görüntüsü 2025-10-03 134754" src="https://github.com/user-attachments/assets/b973bfed-387c-4f6e-8bf6-6d475dc8a2c6" />
 <img width="830" height="454" alt="Ekran görüntüsü 2025-10-03 134922" src="https://github.com/user-attachments/assets/5364ae78-d58b-458d-99be-d5b1403a182c" />
