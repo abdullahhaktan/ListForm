@@ -34,6 +34,11 @@ Bu proje, harici bir veritabanı veya API ayarı gerektirmez.
     ```
 2.  **Çözümü Açma:**
     * Kök dizindeki **`ListForm.sln`** (Solution) dosyasını **Visual Studio**'da açın.
+  
+3.  **Veri tabanı ayarları**
+    * app config dosyasındaki veri tabanı adını ve sunucu adını kendi oluşturacağınız veri tabanı adıyla değiştirin
+    * Manuel olarak veri tabanı oluşturup ilgili tabloları ekleyebilirsiniz
+    
 3.  **Derleme ve Çalıştırma:**
     * Çözümü derleyin (`Build Solution` veya **F6**).
     * Projeyi **`Startup Project`** olarak ayarlayın ve **F5** tuşuna basarak uygulamayı çalıştırın.
@@ -67,7 +72,12 @@ This project does not require any external database or API configuration.
     ```
 2.  **Opening the Solution:**
     * Open the root directory's **`ListForm.sln`** (Solution) file using **Visual Studio**.
-3.  **Building and Running:**
+  
+3.  **Database settings**
+    * Change the server name and also database name with the database name that you will create in appsettings file
+    * you can create the relevant database and tables manually
+      
+4.  **Building and Running:**
     * Build the solution in Visual Studio (`Build Solution` or **F6**).
     * Set the project as the **`Startup Project`** and press **F5** to run the application.
 
