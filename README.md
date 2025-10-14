@@ -25,7 +25,6 @@
 
 ### 🚀 Nasıl Çalıştırılır?
 
-Bu proje, harici bir veritabanı veya API ayarı gerektirmez.
 
 1.  **Projeyi Klonlama:**
     ```bash
@@ -35,7 +34,7 @@ Bu proje, harici bir veritabanı veya API ayarı gerektirmez.
 2.  **Çözümü Açma:**
     * Kök dizindeki **`ListForm.sln`** (Solution) dosyasını **Visual Studio**'da açın.
   
-3.  **Veri tabanı ayarları**
+3.  **Veri tabanı ayarları (Dikkat eğer gerekirse) **
     * app config dosyasındaki veri tabanı adını ve sunucu adını kendi oluşturacağınız veri tabanı adıyla değiştirin
     * Manuel olarak veri tabanı oluşturup ilgili tabloları ekleyebilirsiniz
     
@@ -73,7 +72,7 @@ This project does not require any external database or API configuration.
 2.  **Opening the Solution:**
     * Open the root directory's **`ListForm.sln`** (Solution) file using **Visual Studio**.
   
-3.  **Database settings**
+3.  **Database settings  (pay attention , apply if it is neccessary)**
     * Change the server name and also database name with the database name that you will create in appsettings file
     * you can create the relevant database and tables manually
       
